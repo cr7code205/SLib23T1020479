@@ -1,0 +1,11 @@
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\bin\Release\net8.0\SLib23T1020479.Models.deps.json
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\bin\Release\net8.0\SLib23T1020479.Models.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\bin\Release\net8.0\SLib23T1020479.Models.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\obj\Release\net8.0\SLib23T1020479.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\obj\Release\net8.0\SLib23T1020479.Models.AssemblyInfoInputs.cache
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\obj\Release\net8.0\SLib23T1020479.Models.AssemblyInfo.cs
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\obj\Release\net8.0\SLib23T1020479.Models.csproj.CoreCompileInputs.cache
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\obj\Release\net8.0\SLib23T1020479.Models.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\obj\Release\net8.0\refint\SLib23T1020479.Models.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\obj\Release\net8.0\SLib23T1020479.Models.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.Models\obj\Release\net8.0\ref\SLib23T1020479.Models.dll

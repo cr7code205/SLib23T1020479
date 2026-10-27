@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|d:\\2026-2027\\desktop\\24-10-2026\\slib23t1020479\\slib23t1020479.desktopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|solutionrelative:slib23t1020479.desktopapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|d:\\2026-2027\\desktop\\24-10-2026\\slib23t1020479\\slib23t1020479.desktopapp\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|solutionrelative:slib23t1020479.desktopapp\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|d:\\2026-2027\\desktop\\24-10-2026\\slib23t1020479\\slib23t1020479.desktopapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|solutionrelative:slib23t1020479.desktopapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\slib23t1020479.desktopapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|solutionrelative:slib23t1020479.desktopapp\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|d:\\2026-2027\\desktop\\24-10-2026\\slib23t1020479\\slib23t1020479.desktopapp\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|solutionrelative:slib23t1020479.desktopapp\\formmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|d:\\2026-2027\\desktop\\24-10-2026\\slib23t1020479\\slib23t1020479.desktopapp\\formmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{26F093F0-0887-40A4-A20E-C85DE1FAC8C5}|SLib23T1020479.DesktopApp\\SLib23T1020479.DesktopApp.csproj|solutionrelative:slib23t1020479.desktopapp\\formmain.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMain.Designer.cs",
+              "DocumentMoniker": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\FormMain.Designer.cs",
+              "RelativeDocumentMoniker": "SLib23T1020479.DesktopApp\\FormMain.Designer.cs",
+              "ToolTip": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\FormMain.Designer.cs",
+              "RelativeToolTip": "SLib23T1020479.DesktopApp\\FormMain.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T03:35:28.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\Program.cs",
+              "RelativeDocumentMoniker": "SLib23T1020479.DesktopApp\\Program.cs",
+              "ToolTip": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\Program.cs",
+              "RelativeToolTip": "SLib23T1020479.DesktopApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T02:39:06.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMain.resx",
+              "DocumentMoniker": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\FormMain.resx",
+              "RelativeDocumentMoniker": "SLib23T1020479.DesktopApp\\FormMain.resx",
+              "ToolTip": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\FormMain.resx",
+              "RelativeToolTip": "SLib23T1020479.DesktopApp\\FormMain.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-10-24T03:35:32.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\FormMain.cs",
+              "RelativeDocumentMoniker": "SLib23T1020479.DesktopApp\\FormMain.cs",
+              "ToolTip": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\FormMain.cs",
+              "RelativeToolTip": "SLib23T1020479.DesktopApp\\FormMain.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T02:52:48.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\FormMain.cs",
+              "RelativeDocumentMoniker": "SLib23T1020479.DesktopApp\\FormMain.cs",
+              "ToolTip": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\FormMain.cs [Design]",
+              "RelativeToolTip": "SLib23T1020479.DesktopApp\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T02:52:43.93Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "SLib23T1020479.DesktopApp\\ServiceManager.cs",
+              "ToolTip": "D:\\2026-2027\\desktop\\24-10-2026\\SLib23T1020479\\SLib23T1020479.DesktopApp\\ServiceManager.cs",
+              "RelativeToolTip": "SLib23T1020479.DesktopApp\\ServiceManager.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T02:39:24.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

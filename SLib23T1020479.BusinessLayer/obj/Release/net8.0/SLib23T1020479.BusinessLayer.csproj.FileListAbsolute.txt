@@ -1,0 +1,17 @@
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\bin\Release\net8.0\SLib23T1020479.BusinessLayer.deps.json
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\bin\Release\net8.0\SLib23T1020479.BusinessLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\bin\Release\net8.0\SLib23T1020479.BusinessLayer.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\SLib23T1020479.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\SLib23T1020479.BusinessLayer.AssemblyInfoInputs.cache
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\SLib23T1020479.BusinessLayer.AssemblyInfo.cs
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\SLib23T1020479.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\SLib23T1020479.BusinessLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\refint\SLib23T1020479.BusinessLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\SLib23T1020479.BusinessLayer.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\ref\SLib23T1020479.BusinessLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\bin\Release\net8.0\SLib23T1020479.DataLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\bin\Release\net8.0\SLib23T1020479.Models.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\bin\Release\net8.0\SLib23T1020479.DataLayer.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\bin\Release\net8.0\SLib23T1020479.Models.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\SLib23T1020479.BusinessLayer.csproj.AssemblyReference.cache
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.BusinessLayer\obj\Release\net8.0\SLib23T1.1FE7B555.Up2Date

@@ -1,0 +1,15 @@
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\bin\Release\net8.0\SLib23T1020479.DataLayer.deps.json
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\bin\Release\net8.0\SLib23T1020479.DataLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\bin\Release\net8.0\SLib23T1020479.DataLayer.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\SLib23T1020479.DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\SLib23T1020479.DataLayer.AssemblyInfoInputs.cache
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\SLib23T1020479.DataLayer.AssemblyInfo.cs
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\SLib23T1020479.DataLayer.csproj.CoreCompileInputs.cache
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\SLib23T1020479.DataLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\refint\SLib23T1020479.DataLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\SLib23T1020479.DataLayer.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\ref\SLib23T1020479.DataLayer.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\bin\Release\net8.0\SLib23T1020479.Models.dll
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\bin\Release\net8.0\SLib23T1020479.Models.pdb
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\SLib23T1020479.DataLayer.csproj.AssemblyReference.cache
+D:\2026-2027\desktop\24-10-2026\SLib23T1020479\SLib23T1020479.DataLayer\obj\Release\net8.0\SLib23T1.44D14F99.Up2Date
